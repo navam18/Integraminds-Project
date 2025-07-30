@@ -17,5 +17,3 @@ An Event Management System built with HTML, CSS, JavaScript (Frontend), and Node
 
 ---
 
-## 📁 Project Structure
-
